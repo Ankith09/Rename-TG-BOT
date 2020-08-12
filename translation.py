@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT Edited By @super_botz
+    START_TEXT = """ Simple Telegram Renaming BOT Edited By @super_botz'
 
 <b>Please send me any Telegram file and reply /rename New Name.extn</b>
 SEE /help For My Features"""
@@ -8,7 +8,7 @@ SEE /help For My Features"""
     ABS_TEXT = "What Are You Trying To Do,Mate?"
     UPGRADE_TEXT = "CONTACT @super_botz👦"
     DOWNLOAD_START = "Give Me Some Time Niggah(〒﹏〒)"
-    UPLOAD_START = "Yay, Completed Downloading((个_个)"
+    UPLOAD_START = "Yay, Completed Downloading ( . ര ʖ̯ ര . )"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? use @LEECH_GROUP"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me,For Downloading Files Join @LEECH_GROUP**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds Use @PUBLIC_LEECH_2 To Download From Links"
